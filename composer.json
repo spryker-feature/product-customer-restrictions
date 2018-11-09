@@ -1,0 +1,12 @@
+{
+  "name": "spryker-feature/product-customer-restrictions",
+  "description": "Product Customer Restrictions [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker/product-customer-permission": "^1.0.1"
+  }
+}
