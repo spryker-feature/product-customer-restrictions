@@ -6,8 +6,10 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "~2018.11.0",
     "spryker/product-customer-permission": "^1.0.1",
     "spryker/product-customer-permission-collector": "^1.0.0"
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
