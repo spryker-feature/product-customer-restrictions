@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.2",
-    "spryker/product-customer-permission": "^1.0.1"
+    "spryker/product-customer-permission": "^1.1.0"
   },
   "extra": {
     "branch-alias": {
