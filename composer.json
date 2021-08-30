@@ -1,20 +1,20 @@
 {
-  "name": "spryker-feature/product-customer-restrictions",
-  "description": "Product Customer Restrictions [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/product-customer-permission": "^1.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-customer-restrictions",
+    "description": "Product Customer Restrictions [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/product-customer-permission": "^1.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
