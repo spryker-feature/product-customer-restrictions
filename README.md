@@ -2,6 +2,8 @@
 
 Define which of your customers gets to see what items, details, and prices. Any item in your product catalog can be added to blacklists per customer. The lists can be uploaded or imported to make handling easier.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/merchant-management/202307.0/base-shop/merchant-product-restrictions-feature-overview/merchant-product-restrictions-feature-overview.html)
+
 ## Installation
 
 ```
